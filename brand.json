@@ -1,0 +1,13 @@
+{
+  "name": "GlowLeaf Naturals",
+  "website": "https://glowleaf.example.com",
+  "description": "An Indian skincare brand making vegan, dermatologist-tested serums and moisturisers with plant-based actives.",
+  "campaign": "Monsoon Glow 2026 - 6-week creator partnership for the new Vitamin C + Niacinamide serum",
+  "target_niches": ["skincare", "beauty", "wellness", "lifestyle"],
+  "keywords": ["skincare", "beauty", "glow", "self care", "wellness", "vegan", "clean beauty", "routine"],
+  "min_followers": 5000,
+  "max_followers": 150000,
+  "target_locations": ["India", "Mumbai", "Delhi", "Bangalore", "Pune"],
+  "offer": "Free product kit, a paid content fee, and a 10% affiliate code for the creator's audience",
+  "pricing_policy": "Fees are negotiated per creator based on rate card. Never quote a specific number; ask for their rate card and say the team will confirm budget."
+}
